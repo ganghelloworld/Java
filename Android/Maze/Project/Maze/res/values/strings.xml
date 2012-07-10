@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MazeActivity!</string>
+    <string name="app_name">益智迷宫</string>
+    <string name="helpInfo">
+    <font color='white'><big>游戏简介</big></font><br/>
+   	<font color='white'>迷宫是一款历史悠久的益智类游戏。此游戏通过吸引人们在弯弯曲曲，困难重重的小路上行走，
+   	 以找到真相和出路。人类建造迷宫已有5000年的历史。在世界的不同文化发展时期，这些奇特的建筑物始终吸引人们沿着弯弯曲曲</font><br/>
+	<font color='white'><big>操作说明</big></font><br/>
+	<font color='white'>迷宫是一款历史悠久的益智类游戏。此游戏通过吸引人们在弯弯曲曲，困难重重的小路上行走，
+   	 以找到真相和出路。人类建造迷宫已有5000年的历史。在世界的不同文化发展时期，这些奇特的建筑物始终吸引人们沿着弯弯曲曲</font><br/>
+    </string>
+
+</resources>

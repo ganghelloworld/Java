@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@raw/bg"
+    >
+<TextView 
+	android:id="@+id/start"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/start"
+    android:textSize="10pt"
+    />
+    
+ <TextView 
+	android:id="@+id/help"
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="@string/help"
+    android:textSize="9pt"
+    />
+</LinearLayout>

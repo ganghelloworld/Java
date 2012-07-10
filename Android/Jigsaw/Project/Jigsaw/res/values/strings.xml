@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Jigsaw!</string>
+    <string name="app_name">Jigsaw</string>
+    <string name="start">Start</string>
+    <string name="help">Help</string>
+    <string name="helpString">Jigsaw is a PUZ game. In the game, you can control 7 blocks to form a beautiful picture.\n\n
+    ••press \"▲\" or \"2\", move block up.\n\n
+    ••press \"▼\" or \"8\", move block down.\n\n
+    ••press \"◀\" or "4", move block left.\n\n
+    ••press \"▶\" or \"6\", move block right.\n\n
+    ••press \"CENTER\" or \"5\", focus on other block.\n\n
+    ••press \"1\", rotate counterclockwise.\n\n
+    ••press \"3\", rotate clockwise.\n\n
+    </string>
+</resources>
